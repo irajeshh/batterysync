@@ -1,9 +1,11 @@
 # BatterySync
 
-<p align="center">
-  <img src="docs/screenshots/iPhone.png" alt="BatterySync on iPhone" width="260" />
-  <img src="docs/screenshots/iWatch.png" alt="BatterySync on Apple Watch" width="260" />
-</p>
+<table align="center" border="2" bordercolor="#22c55e" cellpadding="8" cellspacing="8">
+  <tr>
+    <td align="center"><img src="docs/screenshots/iPhone.png" alt="BatterySync on iPhone" width="260" /></td>
+    <td align="center"><img src="docs/screenshots/iWatch.png" alt="BatterySync on Apple Watch" width="260" /></td>
+  </tr>
+</table>
 
 <p align="center"><strong>A focused Apple Watch battery companion for iPhone.</strong><br />Local, private, and built for fast WatchConnectivity experiments.</p>
 
@@ -25,16 +27,6 @@
 - ⭕ Watch battery ring tap for an immediate local refresh request.
 - 🌑 Dark companion-style interfaces.
 - 🧩 WidgetKit target for battery values and the synchronization token.
-
-## 🖼️ Screenshots
-
-### Apple Watch
-
-![BatterySync Apple Watch interface](docs/screenshots/iWatch.png)
-
-### iPhone
-
-![BatterySync iPhone interface](docs/screenshots/iPhone.png)
 
 ## 🛠️ Requirements
 
